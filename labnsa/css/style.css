@@ -1,13 +1,28 @@
 body {
-    background-color: aliceblue;
+    background-color: #0033a0;
     color: black;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 12px;
-} 
+}
 
 div{
+    background-color: aliceblue;
+    width: 170px;
+    height: fit-content;
+    font-size: 20px;
+}
 
-    width:15px;
-    height:100px;
-    align-content: center;
+span{
+    color:antiquewhite;
+}
+
+.test-section{
+    background-color: black;
+    color: antiquewhite;
+    width: fit-content;
+    height: fit-content;
+}
+
+.blue{
+    color:blue;
 }
